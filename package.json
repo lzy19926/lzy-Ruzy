@@ -1,8 +1,8 @@
 {
   "name": "lzy-ruzy",
-  "version": "1.0.0",
-  "description": "",
-  "main": "./out/index.js",
+  "version": "1.0.7",
+  "description": "一个为Lzy-React专门设计的简易全局状态管理器(同时兼容react)",
+  "main": "./out/Ruzy.js",
   "directories": {
     "lib": "lib"
   },
@@ -10,6 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "lzy19926",
   "license": "ISC"
 }
